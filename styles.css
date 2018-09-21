@@ -1,0 +1,19 @@
+#welcome-section {
+  height: 100vh;
+}
+
+#navbar {
+  position: fixed;
+  width: 100%;
+}
+
+section {
+  height: 600px;
+  border: 2px solid red;
+}
+
+@media screen and (min-width: 450px) {
+  body {
+    color: white;
+  }
+}
